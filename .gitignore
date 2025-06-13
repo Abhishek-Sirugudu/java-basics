@@ -1,0 +1,13 @@
+# Compiled Java classes
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# Build folders
+target/
+bin/
+
+# System files
+.DS_Store
